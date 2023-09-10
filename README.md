@@ -24,6 +24,8 @@ Automatic install.bat file - EasyInstall
 
 ========== ENABLE MODDING IN STARFIELD (XBOX GAMEPASS VERSION) =========
 
+NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
+
 [ 1 ] Open the original “Starfield” folder.
 [ 2 ] Create a new txt file, rename it to “StarfieldCustom.ini”
 [ 3 ] Open the new .ini file, and input these lines:
@@ -39,25 +41,38 @@ NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 
 =================== INSTALL THE MODPACK [ AUTOMATIC ] ===================
 
-[ 1 ] Download the modpack anywhere on your PC you have access to
-[ 2 ] Run the EasyInstall.bat
+[ 1 ] Download the modpack anywhere on your PC you have access to.
+[ 2 ] Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
+[ 3 ] Run the EasyInstall.bat.
 
-NOTE: This bat file automatically copies the contents of this directory over to the proper location
- 
+NOTE: The EasyBackup bat file automatically copies the current contents of your data directory into "Starfield - BACKUP".
+NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location.
+
+
 ==================== INSTALL THE MODPACK [ MANUALLY ] ====================
 
-NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING
+NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
 - C:/Users/<username>/Documents/My Games/Starfield
 
 Within the main modpack directory, you will notice two folders and a file. “Data”, “Extras”, and “StarfieldCustom.ini”.
 
 Data: Main mod folder - contains all mod files.
 Extras: Contains some extra mod options and README files.
-StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD SUPPORT)
+StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD SUPPORT).
 
-[ 1 ] Navigate to C:/Users/<username>/Documents/My Games/Starfield
-[ 2 ] Extract contents of modpack into this directory
-[ 3 ] When asked to overwrite, always select yes. We will be overwriting 
+[ 1 ] Navigate to C:/Users/<username>/Documents/My Games/Starfield.
+[ 2 ] Extract contents of modpack into this directory.
+[ 3 ] If asked to overwrite, click Yes.
+
+
+=================== REMOVE THE MODPACK [ AUTOMATIC ] =====================
+
+WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUSLY OR AFTER INSTALLATION OF THIS PACK.
+
+[ 1 ] Download the modpack anywhere on your PC you have access to.
+[ 2 ] Run the EasyRemoval.bat.
+
+NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla
 
 
 ================================ MOD LIST ===============================
