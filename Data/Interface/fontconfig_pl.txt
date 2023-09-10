@@ -1,0 +1,14 @@
+fontlib "iconfonts_en"
+fontlib "fonts_en"
+map "$HandwrittenFont" = "Handwritten_Institute" Normal
+map "$MAIN_Font" = "NBIcon Architekt Light" Normal
+map "$MAIN_Font_Bold" = "NBIcon Architekt" Normal
+map "$Controller_Buttons" = "Genesis Controller  Buttons" Normal
+map "$Controller_Buttons_inverted" = "Genesis Controller  Buttons inv" Normal
+map "$Controller_Buttons_thin" = "Genesis Controller  Buttons thin" Normal
+map "$ConsoleFont" = "Arial" Normal
+map "$DebugTextFont" = "Consolas" Normal
+map "$NB_Grotesk_Semibold" = "NBIcon Grotesk R Semibold" Normal
+map "$NB_Grotesk_Bold" = "NBIcon Grotesk R Bold" Bold
+validNameChars "`1234567890-=~!@#%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ęóąśłżźćńĄĆĘŁŃÓŚŹŻȀ"
+validBookChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ęóąśłżźćń"
