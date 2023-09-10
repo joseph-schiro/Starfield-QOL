@@ -6,6 +6,7 @@ Version 1.0.0 (20230910)
 
 By jschiro99
 
+
 ============================= INTRODUCTION =============================
 
 1. Introduction : 
@@ -19,6 +20,7 @@ Precompiled modpack compatible with Starfield - Xbox Gamepass Version
 List of all mods in modpack, with direct links.
 Detailed instructions on how to install the modpack
 Automatic install.bat file - EasyInstall
+
 
 ========== ENABLE MODDING IN STARFIELD (XBOX GAMEPASS VERSION) =========
 
@@ -41,7 +43,7 @@ NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 [ 2 ] Run the EasyInstall.bat
 
 NOTE: This bat file automatically copies the contents of this directory over to the proper location
-
+ 
 ==================== INSTALL THE MODPACK [ MANUALLY ] ====================
 
 NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING
@@ -81,19 +83,10 @@ Author: m8r98a4f2
 Link: https://www.nexusmods.com/starfield/mods/773
 
 
-
-
-
-
 ============================ AUTHOR/CREDITS ============================
 
 Huge credit goes to Bethesda, for not letting us down again, and also to the developers who created the mods (listed above).
 
 Modpack created by: jschiro99
 
-Modpack tested by: jschiro99
-
-
-
-
-
+Modpack tested by: jschiro99, Jokiir
