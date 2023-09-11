@@ -50,6 +50,7 @@ NOTE: The EasyInstall bat file automatically copies the contents of this directo
 ## Install the Modpack [ Manually ]
 
 NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
+
 ```C:/Users/<username>/Documents/My Games/Starfield```
 
 Within the main modpack directory, you will notice two folders and a file. “Data”, “Extras”, and “StarfieldCustom.ini”.
@@ -70,7 +71,7 @@ WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUS
 1. Download the modpack anywhere on your PC you have access to.
 2. Run the EasyRemoval.bat.
 
-NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla
+NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla.
 
 
 ## Mod List
@@ -86,7 +87,7 @@ NOTE: The EasyRemoval bat file will remove all mods currently installed, and wil
 
 ## Author/Credits
 
-Huge credit goes to Bethesda, for not letting us down again, and also to the developers who created the mods (listed above).
+Huge credit goes to Bethesda for not letting us down again, and also to the developers who created the mods (listed above).
 
 Modpack created by: jschiro99
 
