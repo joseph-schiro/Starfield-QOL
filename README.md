@@ -23,7 +23,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 ## Quick Navigation
 ### Quick navigation
 * **[:floppy_disk: Download Slimefun4](#floppy_disk-download-slimefun-4)**
-* **[Enable Modding in Starfield](#framed_picture-screenshots)**
+* **[Enable Modding in Starfield](#enable-modding-in-starfield-(Xbox-Gamepass-Version))**
 ## :framed_picture: Screenshots
 * **[:headphones: Discord Support Server](#headphones-discord)**
 * **[:beetle: Bug Tracker](https://github.com/Slimefun/Slimefun4/issues)**
