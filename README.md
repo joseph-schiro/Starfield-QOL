@@ -18,7 +18,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 - Precompiled modpack compatible with Starfield - Xbox Gamepass Version
 - List of all mods in modpack, with direct links.
 - Detailed instructions on how to install the modpack
-- Automatic install.bat file - EasyInstall
+- Automatic EasyBackup, EasyInstall, and EasyRemoval batch files.
   
 
 ## Enable Modding in Starfield (Xbox Gamepass Version)
@@ -28,8 +28,7 @@ NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
 1. Open the original “Starfield” folder.
 2. Create a new txt file, rename it to "StarfieldCustom.ini"
 3. Open the new .ini file, and input these lines:
-```
-[Archive]
+```[Archive]
 bInvalidateOlderFiles=1
 sResourceDataDirsFinal=
 ```
@@ -51,7 +50,7 @@ NOTE: The EasyInstall bat file automatically copies the contents of this directo
 ## Install the Modpack [ Manually ]
 
 NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
-- C:/Users/<username>/Documents/My Games/Starfield
+```C:/Users/<username>/Documents/My Games/Starfield```
 
 Within the main modpack directory, you will notice two folders and a file. “Data”, “Extras”, and “StarfieldCustom.ini”.
 
