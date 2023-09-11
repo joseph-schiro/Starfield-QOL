@@ -77,7 +77,7 @@ NOTE: The EasyRemoval bat file will remove all mods currently installed, and wil
 ## Mod List
 
 | Name                                              | Author    | Link      |
-| :-------------------------------------------------: |:---------:| :---------:|
+| :------------------------------------------------- |:---------:| :---------:|
 | Cleanfield - A No-Intro Videos and Clean Menu Fix | Gametism  | [Download](https://www.nexusmods.com/starfield/mods/88)  |
 | Dark Mode for Terminals                           | animandan | [Download](https://www.nexusmods.com/starfield/mods/861) |
 | Easy Read - Crafting Stations                     | AoEnwyr   | [Download](https://www.nexusmods.com/starfield/mods/845) |
