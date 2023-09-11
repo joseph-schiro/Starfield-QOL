@@ -4,17 +4,17 @@ Starfield QoL Mod Pack
 
 Version 1.0.0 (20230910)
 
-By jschiro99
+By: jschiro99
 ---------------------------------------------------------------------------------
 
-## INTRODUCTION
+## Introduction
 
 This collection of mods is designed to compile all known-compatible Starfield mods that work on the Xbox Gamepass Version of the game. 
 This version of the pack focuses on basic QoL (Quality of Life) improvements  - i.e : inventory overhaul, dark theme terminals, inventory icons, FOV changes, etc.
 
 ---------------------------------------------------------------------------------
 
-## KEY FEATURES:
+## Key Features
 
 - Precompiled modpack compatible with Starfield - Xbox Gamepass Version
 - List of all mods in modpack, with direct links.
@@ -23,7 +23,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 
 ---------------------------------------------------------------------------------
 
-## ENABLE MODDING IN STARFIELD (XBOX GAMEPASS VERSION)
+## Enable Modding in Starfield (Xbox Gamepass Version)
 
 NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
 
@@ -41,7 +41,7 @@ NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 
 ---------------------------------------------------------------------------------
 
-## INSTALL THE MODPACK [ AUTOMATIC ]
+## Install the Modpack [ Automatic ]
 
 [ 1 ] Download the modpack anywhere on your PC you have access to.
 [ 2 ] Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
@@ -52,7 +52,7 @@ NOTE: The EasyInstall bat file automatically copies the contents of this directo
 
 ---------------------------------------------------------------------------------
 
-## INSTALL THE MODPACK [ MANUALLY ]
+## Install the Modpack [ Manually ]
 
 NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
 - C:/Users/<username>/Documents/My Games/Starfield
@@ -69,7 +69,7 @@ StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD S
 
 ---------------------------------------------------------------------------------
 
-## REMOVE THE MODPACK [ AUTOMATIC ]
+## Remove the Modpack [ Automatic ]
 
 WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUSLY OR AFTER INSTALLATION OF THIS PACK.
 
@@ -80,7 +80,7 @@ NOTE: The EasyRemoval bat file will remove all mods currently installed, and wil
 
 ---------------------------------------------------------------------------------
 
-## MOD LIST
+## Mod List
 
 Name: Cleanfield - A No-Intro Videos And Clean Menu Fix
 Author: Gametism
@@ -104,7 +104,7 @@ Link: https://www.nexusmods.com/starfield/mods/773
 
 ---------------------------------------------------------------------------------
 
-## AUTHOR/CREDITS
+## Author/Credits
 
 Huge credit goes to Bethesda, for not letting us down again, and also to the developers who created the mods (listed above).
 
