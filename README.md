@@ -5,28 +5,25 @@ Starfield QoL Mod Pack
 Version 1.0.0 (20230910)
 
 By jschiro99
-
-
-
+---------------------------------------------------------------------------------
 
 ## INTRODUCTION
 
-1. Introduction : 
-
-	This collection of mods is designed to compile all known-compatible Starfield mods that work on the Xbox Gamepass Version of the game. 
+This collection of mods is designed to compile all known-compatible Starfield mods that work on the Xbox Gamepass Version of the game. 
 This version of the pack focuses on basic QoL (Quality of Life) improvements  - i.e : inventory overhaul, dark theme terminals, inventory icons, FOV changes, etc.
 
-2. Key Features:
+---------------------------------------------------------------------------------
 
-Precompiled modpack compatible with Starfield - Xbox Gamepass Version
-List of all mods in modpack, with direct links.
-Detailed instructions on how to install the modpack
-Automatic install.bat file - EasyInstall
+## KEY FEATURES:
 
+- Precompiled modpack compatible with Starfield - Xbox Gamepass Version
+- List of all mods in modpack, with direct links.
+- Detailed instructions on how to install the modpack
+- Automatic install.bat file - EasyInstall
 
+---------------------------------------------------------------------------------
 
-
-ENABLE MODDING IN STARFIELD (XBOX GAMEPASS VERSION)
+## ENABLE MODDING IN STARFIELD (XBOX GAMEPASS VERSION)
 
 NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
 
@@ -42,10 +39,9 @@ sResourceDataDirsFinal=
 
 NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 
+---------------------------------------------------------------------------------
 
-
-
-INSTALL THE MODPACK [ AUTOMATIC ]
+## INSTALL THE MODPACK [ AUTOMATIC ]
 
 [ 1 ] Download the modpack anywhere on your PC you have access to.
 [ 2 ] Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
@@ -54,8 +50,9 @@ INSTALL THE MODPACK [ AUTOMATIC ]
 NOTE: The EasyBackup bat file automatically copies the current contents of your data directory into "Starfield - BACKUP".
 NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location.
 
+---------------------------------------------------------------------------------
 
-==================== INSTALL THE MODPACK [ MANUALLY ] ====================
+## INSTALL THE MODPACK [ MANUALLY ]
 
 NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
 - C:/Users/<username>/Documents/My Games/Starfield
@@ -70,8 +67,9 @@ StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD S
 [ 2 ] Extract contents of modpack into this directory.
 [ 3 ] If asked to overwrite, click Yes.
 
+---------------------------------------------------------------------------------
 
-=================== REMOVE THE MODPACK [ AUTOMATIC ] =====================
+## REMOVE THE MODPACK [ AUTOMATIC ]
 
 WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUSLY OR AFTER INSTALLATION OF THIS PACK.
 
@@ -80,8 +78,9 @@ WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUS
 
 NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla
 
+---------------------------------------------------------------------------------
 
-================================ MOD LIST ===============================
+## MOD LIST
 
 Name: Cleanfield - A No-Intro Videos And Clean Menu Fix
 Author: Gametism
@@ -103,8 +102,9 @@ Name: StarUI Inventory
 Author: m8r98a4f2
 Link: https://www.nexusmods.com/starfield/mods/773
 
+---------------------------------------------------------------------------------
 
-============================ AUTHOR/CREDITS ============================
+## AUTHOR/CREDITS
 
 Huge credit goes to Bethesda, for not letting us down again, and also to the developers who created the mods (listed above).
 
