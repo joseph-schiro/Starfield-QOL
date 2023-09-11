@@ -79,33 +79,12 @@ NOTE: The EasyRemoval bat file will remove all mods currently installed, and wil
 ## Mod List
 
 | Name                                              | Author    | Link      |
-| ------------------------------------------------- |:---------:| ---------:|
+| :-------------------------------------------------: |:---------:| :---------:|
 | Cleanfield - A No-Intro Videos and Clean Menu Fix | Gametism  | [Download](https://www.nexusmods.com/starfield/mods/88)  |
 | Dark Mode for Terminals                           | animandan | [Download](https://www.nexusmods.com/starfield/mods/861) |
 | Easy Read - Crafting Stations                     | AoEnwyr   | [Download](https://www.nexusmods.com/starfield/mods/845) |
 | Icon Sorting Tags - Starfield Edition             | mcguffin  | [Download](https://www.nexusmods.com/starfield/mods/312) |
 | StarUI Inventory                                  | m8r98a4f2 | [Download](https://www.nexusmods.com/starfield/mods/773) |
-
-
-Name: Cleanfield - A No-Intro Videos And Clean Menu Fix
-Author: Gametism
-Link: https://www.nexusmods.com/starfield/mods/88
-
-Name: Dark Mode for Terminals
-Author: animandan
-Link: https://www.nexusmods.com/starfield/mods/861
-
-Name: Easy Read - Crafting Stations
-Author: AoEnwyr
-Link: https://www.nexusmods.com/starfield/mods/845
-
-Name: Icon Sorting Tags - Starfield Edition
-Author: mcguffin
-Link: https://www.nexusmods.com/starfield/mods/312
-
-Name: StarUI Inventory
-Author: m8r98a4f2
-Link: https://www.nexusmods.com/starfield/mods/773
 
 
 ## Author/Credits
