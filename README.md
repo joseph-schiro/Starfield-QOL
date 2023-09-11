@@ -54,7 +54,7 @@ NOTE: The EasyBackup bat file automatically copies the current contents of your 
 NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location.
 
 
-## Install Modpack [ Manually ]
+## Install Modpack [ Manual ]
 
 NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
 
