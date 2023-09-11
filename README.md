@@ -21,15 +21,12 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 - Automatic EasyBackup, EasyInstall, and EasyRemoval batch files.
 
 ## Quick Navigation
-### Quick navigation
-* **[:floppy_disk: Download Slimefun4](#floppy_disk-download-slimefun-4)**
 * **[Enable Modding in Starfield](#enable-modding-in-starfield)**
-## :framed_picture: Screenshots
-* **[:headphones: Discord Support Server](#headphones-discord)**
-* **[:beetle: Bug Tracker](https://github.com/Slimefun/Slimefun4/issues)**
-* **[:open_book: Wiki](https://github.com/Slimefun/Slimefun4/wiki)**
-* **[:interrobang: FAQ](https://github.com/Slimefun/Slimefun4/wiki/FAQ)**
-* **[:handshake: How to contribute](https://github.com/Slimefun/Slimefun4/blob/master/CONTRIBUTING.md)**
+* **[Install Modpack - Automatic](#install-modpack--automatic-)**
+* **[Install Modpack - Manual](#install-modpack--manual-)**
+* **[Remove Modpack - Automatic](#remove-modpack--automatic-)**
+* **[Mod List](#mod-list)**
+* **[Author/Credits]()**
 
 ## Enable Modding in Starfield
 
@@ -47,7 +44,7 @@ sResourceDataDirsFinal=
 NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 
 
-## Install the Modpack [ Automatic ]
+## Install Modpack [ Automatic ]
 
 1. Download the modpack anywhere on your PC you have access to.
 2. Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
@@ -57,7 +54,7 @@ NOTE: The EasyBackup bat file automatically copies the current contents of your 
 NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location.
 
 
-## Install the Modpack [ Manually ]
+## Install Modpack [ Manually ]
 
 NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
 
@@ -74,7 +71,7 @@ StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD S
 3. If asked to overwrite, click Yes.
 
 
-## Remove the Modpack [ Automatic ]
+## Remove Modpack [ Automatic ]
 
 WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUSLY OR AFTER INSTALLATION OF THIS PACK.
 
