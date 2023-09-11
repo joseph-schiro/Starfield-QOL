@@ -7,7 +7,9 @@ Version 1.0.0 (20230910)
 By jschiro99
 
 
-============================= INTRODUCTION =============================
+
+
+INTRODUCTION
 
 1. Introduction : 
 
@@ -22,7 +24,9 @@ Detailed instructions on how to install the modpack
 Automatic install.bat file - EasyInstall
 
 
-========== ENABLE MODDING IN STARFIELD (XBOX GAMEPASS VERSION) =========
+
+
+ENABLE MODDING IN STARFIELD (XBOX GAMEPASS VERSION)
 
 NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
 
@@ -39,7 +43,9 @@ sResourceDataDirsFinal=
 NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 
 
-=================== INSTALL THE MODPACK [ AUTOMATIC ] ===================
+
+
+INSTALL THE MODPACK [ AUTOMATIC ]
 
 [ 1 ] Download the modpack anywhere on your PC you have access to.
 [ 2 ] Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
