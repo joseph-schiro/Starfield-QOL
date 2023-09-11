@@ -28,7 +28,9 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
 
 [ 1 ] Open the original “Starfield” folder.
+
 [ 2 ] Create a new txt file, rename it to “StarfieldCustom.ini”
+
 [ 3 ] Open the new .ini file, and input these lines:
 
 [Archive]
