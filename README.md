@@ -23,7 +23,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 ## Quick Navigation
 ### Quick navigation
 * **[:floppy_disk: Download Slimefun4](#floppy_disk-download-slimefun-4)**
-* **[Enable Modding in Starfield](#enable-modding-in-starfield-(xbox-gamepass-version))**
+* **[Enable Modding in Starfield](#enable-modding-in-starfield)**
 ## :framed_picture: Screenshots
 * **[:headphones: Discord Support Server](#headphones-discord)**
 * **[:beetle: Bug Tracker](https://github.com/Slimefun/Slimefun4/issues)**
@@ -31,7 +31,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 * **[:interrobang: FAQ](https://github.com/Slimefun/Slimefun4/wiki/FAQ)**
 * **[:handshake: How to contribute](https://github.com/Slimefun/Slimefun4/blob/master/CONTRIBUTING.md)**
 
-## Enable Modding in Starfield (Xbox Gamepass Version)
+## Enable Modding in Starfield
 
 NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
 
