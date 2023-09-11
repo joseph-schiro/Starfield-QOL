@@ -26,7 +26,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 * **[Install Modpack - Manual](#install-modpack--manual-)**
 * **[Remove Modpack - Automatic](#remove-modpack--automatic-)**
 * **[Mod List](#mod-list)**
-* **[Author/Credits]()**
+* **[Author/Credits](#authorcredits)**
 
 ## Enable Modding in Starfield
 
