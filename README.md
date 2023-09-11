@@ -1,10 +1,10 @@
 # Starfield-QOL
 
-Starfield QoL Mod Pack
+__Starfield QoL Mod Pack__
 
-Version 1.0.0 (20230910)
+__Version 1.0.0 (20230910)__
 
-By: jschiro99
+__Created By: jschiro99__
 
 
 ## Introduction
@@ -30,7 +30,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 
 ## Enable Modding in Starfield
 
-NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
+__NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL__
 
 1. Open the original “Starfield” folder.
 2. Create a new txt file, rename it to "StarfieldCustom.ini"
@@ -41,7 +41,7 @@ sResourceDataDirsFinal=
 ```
 4. Save and close the file.
 
-NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
+_NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file_
 
 
 ## Install Modpack [ Automatic ]
@@ -50,46 +50,46 @@ NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 2. Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
 3. Run the EasyInstall.bat.
 
-NOTE: The EasyBackup bat file automatically copies the current contents of your data directory into "Starfield - BACKUP".
-NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location.
+_NOTE: The EasyBackup bat file automatically copies the current contents of your data directory into "Starfield - BACKUP"._
+_NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location._
 
 
 ## Install Modpack [ Manual ]
 
-NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:
+_NOTE: ENSURE YOU BACKUP THIS DIRECTORY BEFORE PROCEEDING:_
 
 ```C:/Users/<username>/Documents/My Games/Starfield```
 
 Within the main modpack directory, you will notice two folders and a file. “Data”, “Extras”, and “StarfieldCustom.ini”.
 
-Data: Main mod folder - contains all mod files.
-Extras: Contains some extra mod options and README files.
-StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD SUPPORT).
+__Data__: Main mod folder - contains all mod files.
+__Extras__: Contains some extra mod options and README files.
+__StarfieldCustom.ini__: Contains extra configs to StarfieldCustom.ini (CLEANFIELD SUPPORT).
 
-1. Navigate to C:/Users/<username>/Documents/My Games/Starfield.
+1. Navigate to ```C:/Users/<username>/Documents/My Games/Starfield.```
 2. Extract contents of modpack into this directory.
 3. If asked to overwrite, click Yes.
 
 
 ## Remove Modpack [ Automatic ]
 
-WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUSLY OR AFTER INSTALLATION OF THIS PACK.
+__WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUSLY OR AFTER INSTALLATION OF THIS PACK.__
 
 1. Download the modpack anywhere on your PC you have access to.
 2. Run the EasyRemoval.bat.
 
-NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla.
+_NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla._
 
 
 ## Mod List
 
 | Name                                              | Author    | Link      |
 | :------------------------------------------------- |:---------:| :---------:|
-| Cleanfield - A No-Intro Videos and Clean Menu Fix | Gametism  | [Download](https://www.nexusmods.com/starfield/mods/88)  |
-| Dark Mode for Terminals                           | animandan | [Download](https://www.nexusmods.com/starfield/mods/861) |
-| Easy Read - Crafting Stations                     | AoEnwyr   | [Download](https://www.nexusmods.com/starfield/mods/845) |
-| Icon Sorting Tags - Starfield Edition             | mcguffin  | [Download](https://www.nexusmods.com/starfield/mods/312) |
-| StarUI Inventory                                  | m8r98a4f2 | [Download](https://www.nexusmods.com/starfield/mods/773) |
+| Cleanfield - A No-Intro Videos and Clean Menu Fix | Gametism  | [Mod Page](https://www.nexusmods.com/starfield/mods/88)  |
+| Dark Mode for Terminals                           | animandan | [Mod Page](https://www.nexusmods.com/starfield/mods/861) |
+| Easy Read - Crafting Stations                     | AoEnwyr   | [Mod Page](https://www.nexusmods.com/starfield/mods/845) |
+| Icon Sorting Tags - Starfield Edition             | mcguffin  | [Mod Page](https://www.nexusmods.com/starfield/mods/312) |
+| StarUI Inventory                                  | m8r98a4f2 | [Mod Page](https://www.nexusmods.com/starfield/mods/773) |
 
 
 ## Author/Credits
