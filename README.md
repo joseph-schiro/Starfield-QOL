@@ -25,26 +25,24 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 
 NOTE: THIS STEP IS NOT NEEDED IF YOU DO THE AUTO INSTALL
 
-[ 1 ] Open the original “Starfield” folder.
-
-[ 2 ] Create a new txt file, rename it to “StarfieldCustom.ini”
-
-[ 3 ] Open the new .ini file, and input these lines:
-
+1. Open the original “Starfield” folder.
+2. Create a new txt file, rename it to "StarfieldCustom.ini"
+3. Open the new .ini file, and input these lines:
+```
 [Archive]
 bInvalidateOlderFiles=1
 sResourceDataDirsFinal=
-
-[ 4 ] Save and close the file.
+```
+4. Save and close the file.
 
 NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 
 
 ## Install the Modpack [ Automatic ]
 
-[ 1 ] Download the modpack anywhere on your PC you have access to.
-[ 2 ] Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
-[ 3 ] Run the EasyInstall.bat.
+1. Download the modpack anywhere on your PC you have access to.
+2. Run the EasyBackup.bat (NOT REQUIRED, RECOMMENDED).
+3. Run the EasyInstall.bat.
 
 NOTE: The EasyBackup bat file automatically copies the current contents of your data directory into "Starfield - BACKUP".
 NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location.
@@ -61,17 +59,17 @@ Data: Main mod folder - contains all mod files.
 Extras: Contains some extra mod options and README files.
 StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD SUPPORT).
 
-[ 1 ] Navigate to C:/Users/<username>/Documents/My Games/Starfield.
-[ 2 ] Extract contents of modpack into this directory.
-[ 3 ] If asked to overwrite, click Yes.
+1. Navigate to C:/Users/<username>/Documents/My Games/Starfield.
+2. Extract contents of modpack into this directory.
+3. If asked to overwrite, click Yes.
 
 
 ## Remove the Modpack [ Automatic ]
 
 WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUSLY OR AFTER INSTALLATION OF THIS PACK.
 
-[ 1 ] Download the modpack anywhere on your PC you have access to.
-[ 2 ] Run the EasyRemoval.bat.
+1. Download the modpack anywhere on your PC you have access to.
+2. Run the EasyRemoval.bat.
 
 NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla
 
