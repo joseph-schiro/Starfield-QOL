@@ -1,18 +1,17 @@
 # Starfield-QOL
----------------------------------------------------------------------------------
+
 Starfield QoL Mod Pack
 
 Version 1.0.0 (20230910)
 
 By: jschiro99
----------------------------------------------------------------------------------
+
 
 ## Introduction
 
 This collection of mods is designed to compile all known-compatible Starfield mods that work on the Xbox Gamepass Version of the game. 
 This version of the pack focuses on basic QoL (Quality of Life) improvements  - i.e : inventory overhaul, dark theme terminals, inventory icons, FOV changes, etc.
 
----------------------------------------------------------------------------------
 
 ## Key Features
 
@@ -20,8 +19,7 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 - List of all mods in modpack, with direct links.
 - Detailed instructions on how to install the modpack
 - Automatic install.bat file - EasyInstall
-
----------------------------------------------------------------------------------
+  
 
 ## Enable Modding in Starfield (Xbox Gamepass Version)
 
@@ -41,7 +39,6 @@ sResourceDataDirsFinal=
 
 NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 
----------------------------------------------------------------------------------
 
 ## Install the Modpack [ Automatic ]
 
@@ -52,7 +49,6 @@ NOTE: This modpack already comes with a pre-configured StarfieldCustom.ini file
 NOTE: The EasyBackup bat file automatically copies the current contents of your data directory into "Starfield - BACKUP".
 NOTE: The EasyInstall bat file automatically copies the contents of this directory over to the proper location.
 
----------------------------------------------------------------------------------
 
 ## Install the Modpack [ Manually ]
 
@@ -69,7 +65,6 @@ StarfieldCustom.ini: Contains extra configs to StarfieldCustom.ini (CLEANFIELD S
 [ 2 ] Extract contents of modpack into this directory.
 [ 3 ] If asked to overwrite, click Yes.
 
----------------------------------------------------------------------------------
 
 ## Remove the Modpack [ Automatic ]
 
@@ -80,9 +75,17 @@ WARNING: THIS WILL REMOVE ALL MODS INSTALLED - INCLUDING ANY MODS ADDED PREVIOUS
 
 NOTE: The EasyRemoval bat file will remove all mods currently installed, and will revert your game to vanilla
 
----------------------------------------------------------------------------------
 
 ## Mod List
+
+| Name                                              | Author    | Link      |
+| ------------------------------------------------- |:---------:| ---------:|
+| Cleanfield - A No-Intro Videos and Clean Menu Fix | Gametism  | [Download](https://www.nexusmods.com/starfield/mods/88)  |
+| Dark Mode for Terminals                           | animandan | [Download](https://www.nexusmods.com/starfield/mods/861) |
+| Easy Read - Crafting Stations                     | AoEnwyr   | [Download](https://www.nexusmods.com/starfield/mods/845) |
+| Icon Sorting Tags - Starfield Edition             | mcguffin  | [Download](https://www.nexusmods.com/starfield/mods/312) |
+| StarUI Inventory                                  | m8r98a4f2 | [Download](https://www.nexusmods.com/starfield/mods/773) |
+
 
 Name: Cleanfield - A No-Intro Videos And Clean Menu Fix
 Author: Gametism
@@ -104,7 +107,6 @@ Name: StarUI Inventory
 Author: m8r98a4f2
 Link: https://www.nexusmods.com/starfield/mods/773
 
----------------------------------------------------------------------------------
 
 ## Author/Credits
 
