@@ -94,8 +94,8 @@ _NOTE: The EasyRemoval bat file will remove all mods currently installed, and wi
 
 ## Author/Credits
 
-Huge credit goes to Bethesda for not letting us down again, and also to the developers who created the mods (listed above).
+__Huge credit goes to Bethesda for not letting us down again, and also to the developers who created the mods (listed above).__
 
-Modpack created by: jschiro99
+__Modpack created by: jschiro99__
 
-Modpack tested by: jschiro99, Jokiir
+__Modpack tested by: jschiro99, Jokiir__
