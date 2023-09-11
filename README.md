@@ -19,7 +19,17 @@ This version of the pack focuses on basic QoL (Quality of Life) improvements  - 
 - List of all mods in modpack, with direct links.
 - Detailed instructions on how to install the modpack
 - Automatic EasyBackup, EasyInstall, and EasyRemoval batch files.
-  
+
+## Quick Navigation
+### Quick navigation
+* **[:floppy_disk: Download Slimefun4](#floppy_disk-download-slimefun-4)**
+* **[Enable Modding in Starfield](#framed_picture-screenshots)**
+## :framed_picture: Screenshots
+* **[:headphones: Discord Support Server](#headphones-discord)**
+* **[:beetle: Bug Tracker](https://github.com/Slimefun/Slimefun4/issues)**
+* **[:open_book: Wiki](https://github.com/Slimefun/Slimefun4/wiki)**
+* **[:interrobang: FAQ](https://github.com/Slimefun/Slimefun4/wiki/FAQ)**
+* **[:handshake: How to contribute](https://github.com/Slimefun/Slimefun4/blob/master/CONTRIBUTING.md)**
 
 ## Enable Modding in Starfield (Xbox Gamepass Version)
 
